@@ -1,5 +1,5 @@
 # Images
 ## Wave evolution (fourier)
 
-![wave](wave_pac.gif)
+![wave](assets/wave_pac.gif)
 
