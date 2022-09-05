@@ -8,7 +8,9 @@
 
 # Homeworks
 
-## Q2 - True/Engineering Stress and Ramberg-Osgood Modeling
+## HW2
+
+### Q2 - True/Engineering Stress and Ramberg-Osgood Modeling
 
 <p align="center">
   <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME232-Mechanics_n_Materials_II/assets/hw3q2.png">
