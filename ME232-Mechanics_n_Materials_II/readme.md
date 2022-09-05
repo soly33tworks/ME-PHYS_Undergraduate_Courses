@@ -10,4 +10,6 @@
 
 ## True/Engineering Stress and Ramberg-Osgood Modeling
 
-![hw3q2](assets/hw3q2.png =250x250)
+// ![hw3q2](assets/hw3q2.png =250x250)
+
+<img src="https://i.imgur.com/ZWnhY9T.png" width=50% height=50%>
