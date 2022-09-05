@@ -6,7 +6,11 @@
 # Labs
 ## Lab 1: Hardness Testing
 
-![name](address)
+### Metals
+
+<p align="center">
+  <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME232-Mechanics_n_Materials_II/assets/LB1_metal.png">
+</p>
 
 # Homeworks
 
