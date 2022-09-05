@@ -1,5 +1,5 @@
 """
-Shows the evolution of a wave using the dispersion relation
+Shows the time evolution of a wave packet using the dispersion relation
 Three options are given as examples: w=k, w=(k^2)/2 and w=2sqrt(k)
 """
 
@@ -74,9 +74,10 @@ def OptionC(steps=42):
       plt.grid()
       plt.pause(0.1)
 
+"""Uncomment to choose"""
 
-OptionA()
-# OptionB()
+# OptionA()
+OptionB()
 # OptionC()
 
 # plt.show() # Add this to the end of the functions if plots dont show up
