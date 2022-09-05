@@ -8,7 +8,7 @@
 
 # Homeworks
 
-## HW2
+## HW3
 
 ### Q2 - True/Engineering Stress and Ramberg-Osgood Modeling
 
