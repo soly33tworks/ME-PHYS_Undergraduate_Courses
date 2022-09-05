@@ -10,4 +10,7 @@
 
 ## True/Engineering Stress and Ramberg-Osgood Modeling
 
-<img align="center" width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME232-Mechanics_n_Materials_II/assets/hw3q2.png">
+<p align="center">
+  <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME232-Mechanics_n_Materials_II/assets/hw3q2.png">
+</p>
+
