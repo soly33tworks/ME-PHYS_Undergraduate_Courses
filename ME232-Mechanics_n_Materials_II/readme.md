@@ -14,7 +14,7 @@
 
 ### Polymers
 
-<p align="left">
+<p align="center">
   <img width=45% height=45% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME232-Mechanics_n_Materials_II/assets/LB1_poly1.png">
   <img width=45% height=45% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME232-Mechanics_n_Materials_II/assets/LB1_poly2.png">
 </p>
