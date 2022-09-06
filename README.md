@@ -5,6 +5,8 @@ In this repository I added the codes I used in my projects and homeworks whilst 
 
 **Note 2:** The quality of the codes tend to be better for the late periods of my curriculum.
 
+**Note 3:** Although some of the projects were "group" projects, usually I did most of the coding and modeling myself, so I did not include any work that I did not do myself entirely.
+
 - - -
 <p align="center">
 **IN DEVELOPMENT**
