@@ -12,6 +12,16 @@
   <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME232-Mechanics_n_Materials_II/assets/LB1_metal.png">
 </p>
 
+### Polymers
+
+<p align="left">
+  <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME232-Mechanics_n_Materials_II/assets/LB1_poly1.png">
+</p>
+
+<p align="right">
+  <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME232-Mechanics_n_Materials_II/assets/LB1_poly2.png">
+</p>
+
 # Homeworks
 
 ## HW3
