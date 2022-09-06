@@ -6,7 +6,7 @@
 # Load Cell DAQ and Calibration
 
 ## Overview
-Mass measurement and calibration using strain-gauge based load cells. For added increase in precision (mostly for fun), pressure-humidity-temperature sensor is added in order to correct the measurements later on. For details, see the report in my ResearchGate profile.
+Mass measurement and calibration using strain-gauge based load cells. For added increase in precision (and mostly for fun), pressure-humidity-temperature sensor is added in order to correct the measurements later on. For details, see the report in my ResearchGate profile.
 
 ## Solidworks Assembly and Wiring Diagram
 
