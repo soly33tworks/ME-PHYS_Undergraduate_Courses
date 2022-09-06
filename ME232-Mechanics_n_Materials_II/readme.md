@@ -33,6 +33,7 @@
 <p align="center">
   <img width=22% height=22% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME232-Mechanics_n_Materials_II/assets/LB3_setup.png">
 </p>
+From: N.E. Dowling. and S. Kampe, M. Kral., "Mechanical Behavior of Materials," 2018. Global Edition. Pearson.
 
 ### Fracture Toughness Distribution and Stress Intensity Function
 <p align="center">
