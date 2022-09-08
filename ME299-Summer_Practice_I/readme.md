@@ -7,6 +7,7 @@
 
 ## Overview
 Mass measurement and calibration using strain-gauge based load cells. For added increase in precision (and mostly for fun), pressure-humidity-temperature sensor is added in order to correct the measurements later on. For details, see the report in my ResearchGate profile.
+Video link: https://www.youtube.com/watch?v=5xm1St0YwUs
 
 ## Solidworks Assembly and Wiring Diagram
 
