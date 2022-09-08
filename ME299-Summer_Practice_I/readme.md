@@ -30,7 +30,10 @@ Mass measurement and calibration using strain-gauge based load cells. For added 
 
 ## Needed Additional Arduino Libraries
 
-*[Arduino-LiquidCrystal-I2C-library](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library)
-*[SFE_BMP180](https://github.com/LowPowerLab/SFE_BMP180)
-*[DHT-sensor-library](https://github.com/adafruit/DHT-sensor-library)
-*[HX711_ADC](https://www.arduino.cc/reference/en/libraries/hx711_adc/)
+[Arduino-LiquidCrystal-I2C-library](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library)
+
+[SFE_BMP180](https://github.com/LowPowerLab/SFE_BMP180)
+
+[DHT-sensor-library](https://github.com/adafruit/DHT-sensor-library)
+
+[HX711_ADC](https://www.arduino.cc/reference/en/libraries/hx711_adc/)
