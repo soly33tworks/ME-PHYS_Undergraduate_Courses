@@ -28,7 +28,7 @@ Mass measurement and calibration using strain-gauge based load cells. For added 
 </p>
 
 
-## Needed Additional Arduino Libraries
+## Required Additional Arduino Libraries
 
 [Arduino-LiquidCrystal-I2C-library](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library)
 
