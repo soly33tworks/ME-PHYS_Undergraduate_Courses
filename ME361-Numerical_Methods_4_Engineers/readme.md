@@ -7,7 +7,7 @@
 
 ## HW1 - Taylor expansion of = ![\Large f(x)=\sqrt{x+b}(https://latex.codecogs.com/svg.latex?\Large&space;f(x)=\sqrt{x+b}) about x0 
 
-![\Large f(x)=\sqrt{x+b}(https://latex.codecogs.com/svg.latex?\space;f(x)=\sqrt{x+b})
+![\Large f(x)=\sqrt{x+b}(https://latex.codecogs.com/svg.latex?\spacef(x)=\sqrt{x+b})
 
 ![\Large f(x)={\sqrt{b^2-4ac}}](https://latex.codecogs.com/svg.latex?\space;f(x)={\sqrt{b^2-4ac}}) 
 
