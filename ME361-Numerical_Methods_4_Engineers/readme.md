@@ -5,7 +5,7 @@
 
 # Homeworks
 
-## HW1 - Taylor expansion of f(x) = ![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
+## HW1 - Taylor expansion of = ![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}(https://latex.codecogs.com/svg.latex?\Large&space;f(x)=\sqrt{x+b}) about x0 
 
 <p align="center">
   <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME361-Numerical_Methods_4_Engineers/assets/HW1%20fig%202.png?raw=true">
