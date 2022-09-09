@@ -5,11 +5,8 @@
 
 # Homeworks
 
-## HW1 - Taylor expansion of = ![\Large f(x)=\sqrt{x+b}(https://latex.codecogs.com/svg.latex?\Large&space;f(x)=\sqrt{x+b}) about x0 
+## HW1 - Taylor expansion of = ![\normalsize f(x)={\sqrt{x+b}}](https://latex.codecogs.com/svg.latex?\normalsize&space;f(x)={\sqrt{x+b}}) about x0 
 
-![\Large f(x)=\sqrt{x+b}(https://latex.codecogs.com/svg.latex?\space;f(x)=\sqrt{x+b})
-
-![\normalsize f(x)={\sqrt{x+b}}](https://latex.codecogs.com/svg.latex?\normalsize&space;f(x)={\sqrt{x+b}}) 
 
 <p align="center">
   <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME361-Numerical_Methods_4_Engineers/assets/HW1%20fig%202.png?raw=true">
