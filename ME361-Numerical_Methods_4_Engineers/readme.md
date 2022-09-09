@@ -5,7 +5,7 @@
 
 # Homeworks
 
-## HW1 - Taylor expansion of ![\normalsize f(x)={\sqrt{x+b}}](https://latex.codecogs.com/svg.latex?\normalsize&space;f(x)={\sqrt{x+b}}) about x0 
+## HW1 - Taylor expansion of ![\bf\normalsize f(x)={\sqrt{x+b}}](https://latex.codecogs.com/svg.latex?\bf\normalsize&space;f(x)={\sqrt{x+b}}) about x0 
 
 
 <p align="center">
