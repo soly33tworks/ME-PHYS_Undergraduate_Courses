@@ -7,8 +7,12 @@
 
 ## HW1 - Taylor expansion of ![\bf\normalsize f(x)={\sqrt{x+b}}](https://latex.codecogs.com/svg.latex?\bf\normalsize&space;f(x)={\sqrt{x+b}}) about x0 
 
-
 <p align="center">
   <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME361-Numerical_Methods_4_Engineers/assets/HW1%20fig%202.png?raw=true">
 </p>
 
+## HW2 - Newton-Raphson root finding
+
+<p align="center">
+  <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME361-Numerical_Methods_4_Engineers/assets/hw2.png?raw=true">
+</p>
