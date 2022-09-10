@@ -22,3 +22,9 @@
 <p align="center">
   <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME361-Numerical_Methods_4_Engineers/assets/hw3.png?raw=true">
 </p>
+
+## HW4 - Power Method for eigenvalue and eigenvector finding
+
+<p align="center">
+  <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME361-Numerical_Methods_4_Engineers/assets/hw4.png?raw=true">
+</p>
