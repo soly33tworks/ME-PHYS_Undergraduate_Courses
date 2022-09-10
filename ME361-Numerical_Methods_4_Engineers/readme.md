@@ -1,6 +1,8 @@
 # Numerical Methods for Engineers - ME361
 **Course description:** https://stars.bilkent.edu.tr/syllabus/view/ME/361/20211?section=1
 
+**Note :** Many of these examples were question specific; however, I modified them for general use.
+
 **Semester :** Year 3 Semester 1
 
 # Homeworks
