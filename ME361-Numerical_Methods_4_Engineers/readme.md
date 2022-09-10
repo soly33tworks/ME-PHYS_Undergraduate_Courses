@@ -43,3 +43,9 @@
   <img width=47% height=47% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME361-Numerical_Methods_4_Engineers/assets/hw7_1.png?raw=true">
   <img width=47% height=47% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME361-Numerical_Methods_4_Engineers/assets/hw7_2.png?raw=true">
 </p>
+
+## HW8 - Lagrange Polynomial Interpolation
+
+<p align="center">
+  <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME361-Numerical_Methods_4_Engineers/assets/hw8.png?raw=true">
+</p>
