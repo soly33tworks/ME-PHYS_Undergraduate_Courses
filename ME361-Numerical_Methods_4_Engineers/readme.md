@@ -30,3 +30,9 @@
 <p align="center">
   <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME361-Numerical_Methods_4_Engineers/assets/hw4.png?raw=true">
 </p>
+
+## HW6 - Golden Ratio Search to find local minima or maxima
+
+<p align="center">
+  <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME361-Numerical_Methods_4_Engineers/assets/hw6.png?raw=true">
+</p>
