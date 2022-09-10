@@ -4,6 +4,9 @@ a*x1+b*x2+c*x3 = A          [ a  b  c  A ]
 d*x1+e*x2+f*x3 = B  ----->  [ d  e  f  B ]
 g*x1+h*x2+i*x3 = C          [ g  h  i  C ]
 
+Set the convergence percentage or the max number of iterations as a stopping criteria.
+Loop will stop when the closes criteria is met.
+
 Note 1: Number of variables must be equal to number of equations (for ex: its 3 here).
 Note 2: Checks for the convergence criteria and checks for zeros in the main diagonal. 
 Note 3: Tested for 4x5 matrices but should work for any. The printing will look bad though. 
@@ -34,26 +37,12 @@ def check_conv(n, m, arr):
     return new_arr
 
 
-def check_zeros(n, m, arr, maxtries=25):
+def check_zeros(n, m, arr):
     for row in range(n):
         for col in range(m-1):
             if (arr[row][col] == 0)&(row==col):
                 print("row ", row, " has a 0 in the main diagonal. Terminating...")
                 return 1
-
-    # tries = 0
-    # row, col = 0, 0
-    # while (row < n-1)&(tries<maxtries):
-    #     while col < m-1:
-    #         if (arr[row][col] == 0)&(row==col):
-    #             random.shuffle(arr)
-    #             row, col = 0, 0
-    #             tries += 1
-    #             if tries == maxtries:
-    #                 break
-    #         col += 1
-    #     row += 1
-    # return arr
 
 def Change_perc(new, old): # Returns True relative absolute error
     return ((((new-old)/new)**2)**0.5)*100
@@ -123,9 +112,10 @@ def Gauss_Seidel(Arr, converg_perc=1, max_iter=25, Plot=False):
         conv_plot(relative_changes)
     
 
+# Example array, should work for other dimensions aswell (must be m=n+1)
 Arr = array([[0, 3, -1, 8, 15],
             [10, -1, 2, 0, 6], 
            [-1, 11, -1, 3, 25], 
-           [2, -1, 10, -1, -11]]) # example array, should work for other sizes aswell
+           [2, -1, 10, -1, -11]])
 
-Gauss_Seidel(Arr, Plot=True)
+Gauss_Seidel(Arr, converg_perc=1, max_iter=25, Plot=True)
