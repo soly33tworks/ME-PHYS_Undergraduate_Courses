@@ -61,3 +61,9 @@
 <p align="center">
   <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME361-Numerical_Methods_4_Engineers/assets/hw10.png?raw=true">
 </p>
+
+## HW11 - Runge-Kutta method of order 4 (solves initial value problem of differential equations)
+
+<p align="center">
+  <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME361-Numerical_Methods_4_Engineers/assets/hw11.png?raw=true">
+</p>
