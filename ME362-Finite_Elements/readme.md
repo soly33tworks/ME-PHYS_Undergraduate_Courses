@@ -7,7 +7,7 @@
 
 # Homeworks
 
-## HW1 - Taylor expansion of ![\bf\normalsize f(x)={\sqrt{x+b}}](https://latex.codecogs.com/svg.latex?\bf\normalsize&space;f(x)={\sqrt{x+b}}) about x0 
+## Project 1 - 1D FEM GUI Project
 
 <p align="center">
   <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME362-Finite_Elements/assets/P1T1.png?raw=true">
