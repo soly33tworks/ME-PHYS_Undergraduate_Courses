@@ -5,7 +5,7 @@
 
 **Semester :** Year 4 Semester 1
 
-# Homeworks
+# Projects
 
 ## Project 1 - 1D FEM GUI Project
 
