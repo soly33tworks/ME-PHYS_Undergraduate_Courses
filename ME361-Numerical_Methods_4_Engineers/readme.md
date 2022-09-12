@@ -49,3 +49,10 @@
 <p align="center">
   <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME361-Numerical_Methods_4_Engineers/assets/hw8.png?raw=true">
 </p>
+
+## HW9 - Natural Cubic Spline Interpolation
+
+<p align="center">
+  <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME361-Numerical_Methods_4_Engineers/assets/hw9.png?raw=true">
+</p>
+
