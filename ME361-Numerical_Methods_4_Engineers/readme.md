@@ -3,7 +3,7 @@
 
 **Note :** Many of these examples were question specific; however, I modified them for general use.
 
-**Semester :** Year 3 Semester 1
+**Semester :** Year 3 Semester 2
 
 # Homeworks
 
