@@ -1,0 +1,14 @@
+# Finite Elements - ME362
+**Course description:** https://stars.bilkent.edu.tr/syllabus/view/ME/362/20211?
+
+**Note :** The base physics code for these programmes were provided at the YouTube links down below.
+
+**Semester :** Year 4 Semester 1
+
+# Homeworks
+
+## HW1 - Taylor expansion of ![\bf\normalsize f(x)={\sqrt{x+b}}](https://latex.codecogs.com/svg.latex?\bf\normalsize&space;f(x)={\sqrt{x+b}}) about x0 
+
+<p align="center">
+  <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME362-Finite_Elements/assets/P1T1.png?raw=true">
+</p>
