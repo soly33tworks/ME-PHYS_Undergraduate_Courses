@@ -56,3 +56,8 @@
   <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME361-Numerical_Methods_4_Engineers/assets/hw9.png?raw=true">
 </p>
 
+## HW10 - Numerical Integration (Simpson's 1/3 rule and the Trapezoidal rule)
+
+<p align="center">
+  <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME361-Numerical_Methods_4_Engineers/assets/hw10.png?raw=true">
+</p>
