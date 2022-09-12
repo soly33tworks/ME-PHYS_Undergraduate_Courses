@@ -24,18 +24,19 @@ def Runge_Kutta4(t0, y0, h, steps, my_title, exact=False): #h: step size
         y_new = Y[i] + (h/6)*(k1+2*k2+2*k3+k4)
         Y.append(y_new)
 
+    my_legend = ['4th Order RK']
     if exact:
         t = array(arange(0,steps*h, 0.001)) # enter exact solution here for comparison
         y_exact = (t**2)+2*t+2-2*(t+1)*log(t+1)
         plot(t, y_exact, "r")
-        legend(['Exact Solution','4th Order RK'])
+        my_legend = ['Exact Solution','4th Order RK']
         
     plot(T,Y, "bo")
     xlabel('t')
     ylabel('y')
     grid("on")
-    legend(['4th Order RK'])
     title(my_title)
+    legend(my_legend)
     show()
 
 plot_title = 'Plots of dy/dt = (y+t²-2)/(t+1)'
