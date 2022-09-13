@@ -65,3 +65,13 @@ Video: https://www.youtube.com/watch?v=-AWhQNf5UiE
 <p align="center">
   <img width=75% height=75% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME362-Finite_Elements/assets/P2T8.png?raw=true">
 </p>
+
+## Project 1 - 2D FEM GUI Project
+
+<p align="center">
+  <img width=75% height=75% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME362-Finite_Elements/assets/P3T1.png?raw=true">
+</p>
+
+<p align="center">
+  <img width=75% height=75% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME362-Finite_Elements/assets/P3T2.png?raw=true">
+</p>
