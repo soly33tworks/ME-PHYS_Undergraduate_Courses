@@ -1,0 +1,74 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration file="D:\chili\4-1\ME 362\Project\Project 2\Code\FEMbridge.prj" location="D:\chili\4-1\ME 362\Project\Project 2\Code" name="FEMbridge" target="target.mlapps" target-name="Package App">
+    <param.appname>FEMbridge</param.appname>
+    <param.authnamewatermark>Ege Erdem</param.authnamewatermark>
+    <param.email />
+    <param.company />
+    <param.icon />
+    <param.icons />
+    <param.summary />
+    <param.description />
+    <param.screenshot>C:\Users\Asus\AppData\Local\Temp\tp371e2f00_4e88_45b4_80cd_0cee1ce9c782.png</param.screenshot>
+    <param.version>3.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>${PROJECT_ROOT}</param.output>
+    <param.guid>ed2caf42-a3a9-4949-90ca-f97b890eefd7</param.guid>
+    <unset>
+      <param.email />
+      <param.company />
+      <param.icon />
+      <param.icons />
+      <param.summary />
+      <param.description />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+      <param.output />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\GUI_project_2.mlapp</file>
+    </fileset.main>
+    <fileset.depfun>
+      <file>${PROJECT_ROOT}\assemble_displacements.m</file>
+      <file>${PROJECT_ROOT}\assemble_forces.m</file>
+      <file>${PROJECT_ROOT}\assemble_stiffness.m</file>
+      <file>${PROJECT_ROOT}\assign_BCs.m</file>
+      <file>${PROJECT_ROOT}\element_stiffness.m</file>
+      <file>${PROJECT_ROOT}\m_bilkent.png</file>
+      <file>${PROJECT_ROOT}\m_cool.png</file>
+      <file>${PROJECT_ROOT}\m_copper.png</file>
+      <file>${PROJECT_ROOT}\m_jet.png</file>
+      <file>${PROJECT_ROOT}\Mat. Properties List.xlsx</file>
+      <file>${PROJECT_ROOT}\update_nodes.m</file>
+    </fileset.depfun>
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="D:\chili\4-1\ME 362\Project\Project 2" name="Code" optional="false">D:\chili\4-1\ME 362\Project\Project 2\Code</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>D:\matlab</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>6.3</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
