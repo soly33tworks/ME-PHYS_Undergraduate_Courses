@@ -1,7 +1,7 @@
 # Finite Elements - ME362
 **Course description:** https://stars.bilkent.edu.tr/syllabus/view/ME/362/20211?
 
-**Note :** The base physics code for these programmes were provided at the following YouTube link: https://www.youtube.com/playlist?list=PLnT2pATp7adU_OYwrPoDWE_YmePxu-fMf
+**Note :** Most of the base physics code for these programmes were provided at the following YouTube link: https://www.youtube.com/playlist?list=PLnT2pATp7adU_OYwrPoDWE_YmePxu-fMf
 
 **Semester :** Year 4 Semester 1
 
