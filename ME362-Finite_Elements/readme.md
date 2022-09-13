@@ -8,6 +8,7 @@
 # Projects
 
 ## Project 1 - 1D FEM Truss Structure Analysis GUI Project
+Video: https://www.youtube.com/watch?v=iU6Hy9MdMyA
 
 <p align="center">
   <img width=75% height=75% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME362-Finite_Elements/assets/P1T1.png?raw=true">
