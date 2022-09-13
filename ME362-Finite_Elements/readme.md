@@ -7,8 +7,24 @@
 
 # Projects
 
-## Project 1 - 1D FEM GUI Project
+## Project 1 - 1D FEM Truss Structure Analysis GUI Project
 
 <p align="center">
   <img width=75% height=75% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME362-Finite_Elements/assets/P1T1.png?raw=true">
+</p>
+
+<p align="center">
+  <img width=75% height=75% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME362-Finite_Elements/assets/P1T2.png?raw=true">
+</p>
+
+<p align="center">
+  <img width=75% height=75% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME362-Finite_Elements/assets/P1T3.png?raw=true">
+</p>
+
+<p align="center">
+  <img width=75% height=75% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME362-Finite_Elements/assets/P1T4.png?raw=true">
+</p>
+
+<p align="center">
+  <img width=75% height=75% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME362-Finite_Elements/assets/P1T5.png?raw=true">
 </p>
