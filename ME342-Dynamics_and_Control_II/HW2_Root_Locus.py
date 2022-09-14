@@ -67,6 +67,8 @@ def RLocus(num, den, increment=0.1, max_iter=3000, sensitivity=0.01):
     #     plt.plot(real(Points), imag(Points), "m.")
     #     plt.pause(0.001)
 
+    my_title = "Root Locus (stable for "+ f'{min(Stable_Ks):.2f}'+ "> K >"+ f'{max(Stable_Ks):.2f}'+")"
+    plt.title(my_title, fontsize=14)
     if len(Stable_Ks)>1:
         print("Stability margin: ", f'{min(Stable_Ks):.2f}', "> K >", f'{max(Stable_Ks):.2f}')
     else:
