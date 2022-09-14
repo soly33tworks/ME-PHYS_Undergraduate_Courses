@@ -15,7 +15,7 @@
   <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME384-Mechatronic_Systems/assets/L4.gif">
 </p>
 
-# New Concepts:
-  - [Direct Port Manipulation](#N1)
-  - [Use of Macros](#N2)
-  - [Bit Shifting](#N3)
+**New Concepts:** 
+  - [Direct Port Manipulation]
+  - [Use of Macros]
+  - [Bit Shifting]
