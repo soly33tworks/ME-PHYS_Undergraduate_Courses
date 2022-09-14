@@ -16,6 +16,7 @@
 </p>
 
 **New Concepts:** 
+  - C Syntax
   - Direct Port Manipulation
   - Use of Macros
   - Bit Shifting
