@@ -16,6 +16,6 @@
 </p>
 
 **New Concepts:** 
-  - [Direct Port Manipulation]
-  - [Use of Macros]
-  - [Bit Shifting]
+  - Direct Port Manipulation
+  - Use of Macros
+  - Bit Shifting
