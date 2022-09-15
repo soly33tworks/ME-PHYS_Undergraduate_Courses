@@ -31,3 +31,16 @@
   - Generating PWM signals with delays
   - Understanding transistors (used TIP41C too) and H-bridges (L293D)
   - Bitwise logic operations
+ 
+## Lab 6 - Servo Motor control with ADC (may not work, not verified)
+
+<p align="center">
+  <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME384-Mechatronic_Systems/assets/L6.jfif">
+</p>
+
+**New Concepts:** 
+  - Analog to Digital Conversion (ADC) in ATMEL AVR without the use of arduino libraries
+  - Endianness
+  - Using registers given in the datasheet
+  - Decoupling capacitors
+
