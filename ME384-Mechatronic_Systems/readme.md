@@ -30,3 +30,4 @@
 **New Concepts:** 
   - Generating PWM signals with delays
   - Understanding transistors (used TIP41C too) and H-bridges (L293D)
+  - Bitwise logic operations
