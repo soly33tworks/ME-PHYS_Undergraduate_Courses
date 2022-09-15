@@ -44,3 +44,11 @@
   - Using registers given in the datasheet
   - Decoupling capacitors
 
+## Lab 7 - Servo Motor direction change with interrupts (may not work, not verified)
+
+<p align="center">
+  <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME384-Mechatronic_Systems/assets/L7.jfif">
+</p>
+
+**New Concepts:** 
+  - Interrupt service routine
