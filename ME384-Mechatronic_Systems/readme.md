@@ -20,3 +20,13 @@
   - Direct Port Manipulation
   - Use of Macros
   - Bit Shifting
+
+## Lab 5 - DC Motor control
+
+<p align="center">
+  <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME384-Mechatronic_Systems/assets/L5.gif">
+</p>
+
+**New Concepts:** 
+  - Generating PWM signals with delays
+  - Understanding transistors (used TIP41C too) and H-bridges (L293D)
