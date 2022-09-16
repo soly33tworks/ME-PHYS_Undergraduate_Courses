@@ -36,3 +36,10 @@ Ma For details, see the report in my ResearchGate profile.
 <p align="center">
   <img width=75% height=75% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME399-Summer_Practice_II/assets/Temp_copper.png">
 </p>
+
+## Temperature Test Using a Thermocouple
+
+<p align="center">
+  <img width=75% height=75% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME399-Summer_Practice_II/assets/Test.jpg">
+</p>
+
