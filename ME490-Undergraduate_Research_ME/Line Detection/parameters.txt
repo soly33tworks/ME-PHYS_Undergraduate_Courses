@@ -1,0 +1,29 @@
+Public Videos
+    Nanomechanical Buckling close up view x8.0
+
+    Nanomechanical Buckling Information Storage - NEMS x2.0
+
+    Nano-mechanical Buckling x3.5
+
+    NEMS Buckling - sub 1V switching and effects of noise x1.0
+
+    NEMS buckling for switching applications - contact formation and pull out from a surface x1.0 zoomed
+
+    NEMS Buckling Snap Through x2.0
+
+Chaos Samples
+    Video Title
+        custom_filter: [485, 590], [110, 630], threshold=199, noise_thresh=12
+        N_connect, λ_connect = 2, 0.1
+        N_center, λ_center = 2, 0.1
+        continuity_parameter, growth_rate = 2, 1.5
+        scale = 30
+        s_map = [[590, 899],[1010, 899]]
+        rangex_center = [480, 590]
+        rangey_center = [230, 550]
+        rangex_outline = [500, 550]
+        rangey_outline = [110, 630]
+        butterworth_params: n=3, f_sampling=100, f_cutoff=1.0
+        FPS = 2.96
+        time = 24.6 min
+
