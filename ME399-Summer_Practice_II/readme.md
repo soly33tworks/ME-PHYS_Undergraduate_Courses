@@ -24,9 +24,9 @@ Ma For details, see the report in my ResearchGate profile.
 ## Temperature Profile of the Steppers Depending on Base Material
 
 <p align="center">
-  <img width=45% height=45% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME399-Summer_Practice_II/assets/Temp_acrylic.png">
+  <img width=75% height=75% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME399-Summer_Practice_II/assets/Temp_acrylic.png">
 </p>
 
 <p align="center">
-  <img width=45% height=45% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME399-Summer_Practice_II/assets/Temp_copper.png">
+  <img width=75% height=75% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME399-Summer_Practice_II/assets/Temp_copper.png">
 </p>
