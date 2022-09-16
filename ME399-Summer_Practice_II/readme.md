@@ -11,5 +11,5 @@ Mass measurement and calibration using strain-gauge based load cells. For added 
 ## Solidworks Assembly and Wiring Diagram
 
 <p align="center">
-  <img width=45% height=45% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME299-Summer_Practice_I/assets/Design.png">
+  <img width=45% height=45% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME399-Summer_Practice_II/assets/Design.png">
 </p>
