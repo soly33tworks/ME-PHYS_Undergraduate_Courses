@@ -1,4 +1,4 @@
-# Numerical Methods for Engineers - ME490
+# Undergraduate Research in ME - ME490
 **Course description:** https://stars.bilkent.edu.tr/syllabus/view/ME/490/20211?section=1
 
 **Note :** For obvious reasons I am only using the recordings that were made public.
