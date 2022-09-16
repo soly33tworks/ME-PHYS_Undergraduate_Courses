@@ -21,6 +21,12 @@ Ma For details, see the report in my ResearchGate profile.
   <img width=45% height=45% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME399-Summer_Practice_II/assets/PCB.jpg">
 </p>
 
+## Tested Microstepper
+
+<p align="center">
+  <img width=45% height=45% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME399-Summer_Practice_II/assets/Microstepper.jpg">
+</p>
+
 ## Temperature Profile of the Steppers Depending on Base Material
 
 <p align="center">
