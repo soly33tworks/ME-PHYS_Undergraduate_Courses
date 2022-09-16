@@ -15,6 +15,12 @@ PCB design for quad-stepper motor used to actuate an experimental microfluidics 
   <img width=45% height=45% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME399-Summer_Practice_II/assets/Buttons.jpg">
 </p>
 
+## User Interface
+
+<p align="center">
+  <img width=75% height=75% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME399-Summer_Practice_II/assets/UI.gif">
+</p>
+
 ## PCB Design
 
 <p align="center">
