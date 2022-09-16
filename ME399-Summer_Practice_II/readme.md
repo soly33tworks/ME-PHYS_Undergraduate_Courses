@@ -6,7 +6,7 @@
 # Quad Stepper Motor Driver Circuit
 
 ## Overview
-For details, see the report in my ResearchGate profile.
+PCB design for quad-stepper motor used to actuate an experimental microfluidics setup that uses microstepper motors.
 
 ## Board and Controls
 
