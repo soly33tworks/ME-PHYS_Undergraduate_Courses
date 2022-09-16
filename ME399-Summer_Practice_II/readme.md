@@ -6,10 +6,27 @@
 # Quad Stepper Motor Driver Circuit
 
 ## Overview
-Mass measurement and calibration using strain-gauge based load cells. For added increase in precision (and mostly for fun), pressure-humidity-temperature sensor is added in order to correct the measurements later on. For details, see the report in my ResearchGate profile.
+Ma For details, see the report in my ResearchGate profile.
 
-## Solidworks Assembly and Wiring Diagram
+## Board and Controls
 
 <p align="center">
   <img width=45% height=45% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME399-Summer_Practice_II/assets/Design.png">
+  <img width=45% height=45% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME399-Summer_Practice_II/assets/Buttons.png">
+</p>
+
+## PCB Design
+
+<p align="center">
+  <img width=45% height=45% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME399-Summer_Practice_II/assets/PCB.png">
+</p>
+
+## Temperature Profile of the Steppers Depending on Base Material
+
+<p align="center">
+  <img width=45% height=45% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME399-Summer_Practice_II/assets/Temp_acrylic.png">
+</p>
+
+<p align="center">
+  <img width=45% height=45% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME399-Summer_Practice_II/assets/Temp_copper.png">
 </p>
