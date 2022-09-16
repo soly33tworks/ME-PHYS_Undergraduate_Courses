@@ -6,7 +6,7 @@
 # Quad Stepper Motor Driver Circuit
 
 ## Overview
-Ma For details, see the report in my ResearchGate profile.
+For details, see the report in my ResearchGate profile.
 
 ## Board and Controls
 
