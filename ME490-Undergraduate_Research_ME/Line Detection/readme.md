@@ -7,6 +7,7 @@
 **Note 3:** The code for the interface does not have the most up to date "image processor", so I didn't include the GUI codes.
 
 ## Problem Definition
+The aim is to extract of positional data and observe wave behaviour from microscope recordings of buckling nanomechanical membranes. See the recordings on the university YouTube page for more details: https://www.youtube.com/watch?v=EXk4vOJH4_4 
 
 <p align="center">
   <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME490-Undergraduate_Research_ME/Line%20Detection/assets/Setup_annotated.png">
