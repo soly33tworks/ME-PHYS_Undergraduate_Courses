@@ -1,9 +1,10 @@
 # NEMS Project
 
-**Note :** Many of these examples were question specific; however, I modified them for general use.
+**Note 1:** Run "Manual_Processor" to start the program and enter your video directory and parameters into the code.
 
-Usage of VS code is highly recommended for convenience
-Run "Manual_Processor" to start the program
+**Note 2:** Usage of VS code is highly recommended for convenience.
+
+**Note 3:** The code for the interface does not have the most up to date "image processor", so I didn't include the GUI codes.
 
 ## Problem Definition
 
