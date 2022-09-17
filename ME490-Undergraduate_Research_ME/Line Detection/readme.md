@@ -41,7 +41,7 @@ The aim is to extract the positional data of the buckling center and observe wav
 
 <p align="center">
   <img width=45% height=45% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME490-Undergraduate_Research_ME/Line%20Detection/assets/Continuity.png">
-  <img width=55% height=55% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME490-Undergraduate_Research_ME/Line%20Detection/assets/Continuity_noise%20at%20center.png">
+  <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME490-Undergraduate_Research_ME/Line%20Detection/assets/Continuity_noise%20at%20center.png">
 </p>
 
 ## Step 3: Apply Ridge Regression
