@@ -15,5 +15,5 @@
 
 ## Project B: Tracking and Sizing Particles in a Microfluidics Channel
 <p align="center">
-  <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME490-Undergraduate_Research_ME/Blob%20Detection/assets/Micro.gif">
+  <img width=75% height=75% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME490-Undergraduate_Research_ME/Blob%20Detection/assets/Micro.gif">
 </p>
