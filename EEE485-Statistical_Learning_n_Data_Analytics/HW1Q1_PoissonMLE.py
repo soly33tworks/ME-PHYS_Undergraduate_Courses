@@ -9,7 +9,7 @@ def fact(x):
     return ans
 
 def get_data():
-    f = open("Q1\data_HW1Q1.txt","r")
+    f = open("data_HW1Q1.txt","r")
     lines = f.readlines()
     data = []
     for line in lines:
