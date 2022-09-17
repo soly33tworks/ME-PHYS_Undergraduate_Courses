@@ -1,4 +1,4 @@
-# NEMS Project (WORK-IN-PROGRESS)
+# NEMS Project
 
 **Note :** Many of these examples were question specific; however, I modified them for general use.
 
