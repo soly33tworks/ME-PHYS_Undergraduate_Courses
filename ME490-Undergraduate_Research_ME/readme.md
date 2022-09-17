@@ -10,6 +10,6 @@
 ## Project A: Extraction of Positional Data and Wave Behaviour From Microscope Recordings of Buckling Nanomechanical Membranes
 
 <p align="center">
-  <img width=75% height=75% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME490-Undergraduate_Research_ME/Line%20Detection/Example%20Result/Output_LineVid.avi">
+  <img width=75% height=75% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME490-Undergraduate_Research_ME/Line%20Detection/assets/NEMS.gif">
 </p>
 
