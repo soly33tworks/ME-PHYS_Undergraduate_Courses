@@ -7,7 +7,9 @@
 
 # Homeworks
 
-## HW1Q1 - Maximum Likelihood Estimation Solution of Poisson Distribution on a Dataset
+## HW1
+
+### Q1 - Maximum Likelihood Estimation Solution of Poisson Distribution on a Dataset 
 
 <p align="center">
   <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/EEE485-Statistical_Learning_n_Data_Analytics/assets/HW1Q1.png">
