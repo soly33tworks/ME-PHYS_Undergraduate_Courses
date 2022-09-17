@@ -1,0 +1,19 @@
+NOTE: coordinates are DEPENDENT on channel position
+
+Use here to store recording parameters for processing
+
+DataSet5
+    1410
+        offset = 2.5332 (1st valid event at t=5.85 s AROUND frame 164, dataset says t=8.3832 s)
+        plate1 = 
+        plate2 =
+        channel = 
+        min_area, max_area = 
+        distance_tol=, memory_length=
+        bground_thresh, plate_thresh = 
+        tolerances=
+        scale = 98/50 # Pixel/Micrometer
+        events_E1629 = []
+        
+        FPS = 
+
