@@ -1,3 +1,14 @@
+# NEMS Project
+
+**Note :** Many of these examples were question specific; however, I modified them for general use.
+
+## Overview
+
+<p align="center">
+  <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME361-Numerical_Methods_4_Engineers/assets/HW1%20fig%202.png?raw=true">
+</p>
+
+
 Usage of VS code is highly recommended for convenience
 Run "Manual_Processor" to start the program
 
