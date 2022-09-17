@@ -8,7 +8,7 @@ The aim is to track and measure the size of the particles that are flowing throu
 ## Method 1: Manual Processor
 
 <p align="center">
-  <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME490-Undergraduate_Research_ME/Blob%20Detection/assets/Micro.gif">
+  <img width=75% height=75% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME490-Undergraduate_Research_ME/Blob%20Detection/assets/Micro.gif">
 </p>
 
 ## Method 2: Trained YOLO Object Detection CNN
