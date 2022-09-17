@@ -14,5 +14,5 @@ The aim is to track and measure the size of the particles that are flowing throu
 ## Method 2: Trained YOLO Object Detection CNN
 
 <p align="center">
-  <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME490-Undergraduate_Research_ME/Blob%20Detection/assets/Micro2.gif">
+  <img width=75% height=75% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME490-Undergraduate_Research_ME/Blob%20Detection/assets/Micro2.gif">
 </p>
