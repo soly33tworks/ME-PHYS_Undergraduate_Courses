@@ -31,7 +31,7 @@ Run "Manual_Processor" to start the program
   <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME490-Undergraduate_Research_ME/Line%20Detection/assets/Simple.png">
 </p>
 
-## Step 2: Continuity Condition
+## Step 2: Continuity Condition Elimination
 
 <p align="center">
   <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME490-Undergraduate_Research_ME/Line%20Detection/assets/Continuity%20FOV.jfif">
