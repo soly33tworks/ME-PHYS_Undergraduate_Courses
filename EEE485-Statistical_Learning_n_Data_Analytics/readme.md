@@ -1,8 +1,6 @@
 # Statistical Learning and Data Analytics - EEE485
 **Course description:** https://stars.bilkent.edu.tr/syllabus/view/EEE/485/20211?section=1
 
-**Note :** Man
-
 **Semester :** Year 4 Semester 2
 
 # Homeworks
