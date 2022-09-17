@@ -63,5 +63,5 @@ Run "Manual_Processor" to start the program
 ## Post Processing: Butterworth Filtering
 
 <p align="center">
-  <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME490-Undergraduate_Research_ME/Line%20Detection/assets/Butterworth.png">
+  <img width=75% height=75% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/ME490-Undergraduate_Research_ME/Line%20Detection/assets/Butterworth.png">
 </p>
