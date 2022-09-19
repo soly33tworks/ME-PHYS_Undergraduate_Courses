@@ -16,6 +16,6 @@
 ### Q2 - Polynomial Least Squares Solution With Leave-One-Out Cross-Validation 
 
 <p align="center">
-  <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/EEE485-Statistical_Learning_n_Data_Analytics/assets/HW1Q2_1.png">
-  <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/EEE485-Statistical_Learning_n_Data_Analytics/assets/HW1Q2_2.png">
+  <img width=65% height=65% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/EEE485-Statistical_Learning_n_Data_Analytics/assets/HW1Q2_1.png">
+  <img width=65% height=65% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/EEE485-Statistical_Learning_n_Data_Analytics/assets/HW1Q2_2.png">
 </p>
