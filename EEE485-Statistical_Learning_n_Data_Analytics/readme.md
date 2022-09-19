@@ -28,3 +28,17 @@
   <img width=48% height=48% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/EEE485-Statistical_Learning_n_Data_Analytics/assets/HW2Q2_1.png">
   <img width=48% height=48% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/EEE485-Statistical_Learning_n_Data_Analytics/assets/HW2Q2_2.png">
 </p>
+
+## HW3
+
+### Q1 - Principal Component Analysis (ex: IRIS dataset)
+
+<p align="center">
+  <img width=48% height=48% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/EEE485-Statistical_Learning_n_Data_Analytics/assets/HW3Q1_1.png">
+  <img width=48% height=48% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/EEE485-Statistical_Learning_n_Data_Analytics/assets/HW3Q1_2.png">
+</p>
+
+<p align="center">
+  <img width=48% height=48% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/EEE485-Statistical_Learning_n_Data_Analytics/assets/HW3Q1_3.png">
+  <img width=48% height=48% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/EEE485-Statistical_Learning_n_Data_Analytics/assets/HW3Q1_4.png">
+</p>
