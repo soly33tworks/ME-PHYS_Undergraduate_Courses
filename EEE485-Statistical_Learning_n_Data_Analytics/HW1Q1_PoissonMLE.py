@@ -1,3 +1,7 @@
+"""
+Given a dataset, the function finds an appropriate λ value based on a maximum likelihood estimation solution.
+"""
+
 from numpy import *
 import matplotlib.pyplot as plt
 from math import factorial
