@@ -158,7 +158,7 @@ def LeastSquares(X, Y, cent_stdize=True, polynomize=False, crosval=False, plot_d
         print("Mean squared error: ", np.float64(msq))
         print("Weight function: \n", w)
 
-data = pnd.read_excel('Q2\Comp_Hardware.xlsx', index_col=0) # Load data
+data = pnd.read_excel('data_HW1Q2.xlsx', index_col=0) # Load data
 data = data.to_numpy()
 np.random.shuffle(data) # Randomize the data order (important for gradient descent but not here, added for illustration)
 x = data[:, 1:8] # x data for the specific data given in our example
