@@ -45,6 +45,7 @@
 
 ### Q2 - Perceptrons and Neural Networks
 
+#### Perceptron
 <p align="center">
   <img width=48% height=48% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/EEE485-Statistical_Learning_n_Data_Analytics/assets/HW3Q2_1.png">
   <img width=48% height=48% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/EEE485-Statistical_Learning_n_Data_Analytics/assets/HW3Q2_2.png">
