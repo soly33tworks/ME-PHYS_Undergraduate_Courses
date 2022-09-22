@@ -42,3 +42,11 @@
   <img width=48% height=48% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/EEE485-Statistical_Learning_n_Data_Analytics/assets/HW3Q1_3.png">
   <img width=48% height=48% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/EEE485-Statistical_Learning_n_Data_Analytics/assets/HW3Q1_4.png">
 </p>
+
+### Q2 - Perceptrons and Neural Networks
+
+<p align="center">
+  <img width=48% height=48% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/EEE485-Statistical_Learning_n_Data_Analytics/assets/HW3Q2_1.png">
+  <img width=48% height=48% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/EEE485-Statistical_Learning_n_Data_Analytics/assets/HW3Q2_2.png">
+</p>
+
