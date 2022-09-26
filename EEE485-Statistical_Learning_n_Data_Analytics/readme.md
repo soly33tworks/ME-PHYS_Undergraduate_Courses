@@ -45,9 +45,15 @@
 
 ### Q2 - Perceptrons and Neural Networks
 
-#### Perceptron
+#### Perceptron (can only solve linearly separable problems)
 <p align="center">
   <img width=48% height=48% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/EEE485-Statistical_Learning_n_Data_Analytics/assets/HW3Q2_1.png">
   <img width=48% height=48% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/EEE485-Statistical_Learning_n_Data_Analytics/assets/HW3Q2_2.png">
+</p>
+
+#### Neural Network
+<p align="center">
+  <img width=48% height=48% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/EEE485-Statistical_Learning_n_Data_Analytics/assets/HW3Q2_3.png">
+  <img width=48% height=48% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/EEE485-Statistical_Learning_n_Data_Analytics/assets/HW3Q2_4.png">
 </p>
 
