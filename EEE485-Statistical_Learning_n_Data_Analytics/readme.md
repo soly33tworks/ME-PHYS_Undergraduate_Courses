@@ -57,3 +57,8 @@
   <img width=48% height=48% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/EEE485-Statistical_Learning_n_Data_Analytics/assets/HW3Q2_4.png">
 </p>
 
+### Q4 - K-Means Clustering
+
+<p align="center">
+  <img width=48% height=48% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/EEE485-Statistical_Learning_n_Data_Analytics/assets/HW3Q4.png">
+</p>
