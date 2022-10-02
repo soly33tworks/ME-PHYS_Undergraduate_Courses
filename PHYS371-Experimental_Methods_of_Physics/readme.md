@@ -1,7 +1,7 @@
 # Experimental Methods of Physics - PHYS374
 **Course description:** https://stars.bilkent.edu.tr/syllabus/view/PHYS/374/20212?section=1
 
-**Note:** The codes for almost every lab were only plotting codes for data collected during the lab sessions. Although those sessions were more closely related to modern physics, I did not include their code for this reason.
+**Note:** The codes for almost every lab were only plotting codes for data collected during the lab sessions. Although those sessions were more interesting and related to modern physics, I did not include their code for this reason.
 
 **Semester :** Year 4 Semester 2
 
