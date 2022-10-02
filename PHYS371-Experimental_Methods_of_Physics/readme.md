@@ -8,9 +8,8 @@
 # Laboratory Classes
 
 ## Lab 1 - Central Limit Theorem Demonstration Using Dice
+The code plots the dice roll distribution in real time and prints the final data at the end. 
 
 <p align="center">
   <img width=50% height=50% src="https://github.com/soly33tworks/ME-PHYS_Undergraduate_Courses/blob/main/PHYS371-Experimental_Methods_of_Physics/assets/LB1.png">
 </p>
-
-The code plots the dice roll distribution in real time and prints the final data at the end. 
